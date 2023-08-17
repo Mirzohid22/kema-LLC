@@ -76,7 +76,7 @@ export default function Home() {
             Bizning jamoa
           </h1>
           <h3 className="text-xl dark:text-purple-600 py-2 max-w-5xl mx-auto lg:my-10">
-            Ta'lim markazimizda, yuqori malakali jamoamiz bilan birgalikda yuksaling
+            Ta&apos;lim markazimizda, yuqori malakali jamoamiz bilan birgalikda yuksaling
           </h3>
           <div>
             <div className="flex flex-col lg:flex-row items-center justify-center lg:gap-20 gap-1 ">
@@ -152,10 +152,10 @@ export default function Home() {
           <div className="bg-white dark:bg-black flex rounded-2xl shadow-lg lg:w-4/5 items-center">
             <div className="md:w-1/2 px-8 md:px-16">
               <h1 className="lg:m-auto my-2 font-bold text-transparent pb-3 text-6xl lg:text-5xl  bg-clip-text bg-gradient-to-r from-blue-400 to-purple-600">
-                Biz bilan bog'lanish uchun
+                Biz bilan bog&apos;lanish uchun
               </h1>
               <h3 className="text-xl dark:text-purple-600 py-2 max-w-5xl mx-auto lg:my-2">
-                ismingiz va raqamingizni qoldiring, operatorimiz siz bilan bog'lanadi
+                ismingiz va raqamingizni qoldiring, operatorimiz siz bilan bog&apos;lanadi
               </h3>
               <form
                 className="flex flex-col gap-4"
