@@ -51,6 +51,17 @@ export default function Home() {
     <div>
       <Head>
         <title>Kema LLC</title>
+        <script>
+        {
+          `
+          window.replainSettings = { id: 'a845804a-e561-4d7c-b304-6bb8f9937657' };
+          (function (u) {
+            var s = document.createElement('script'); s.async = true; s.src = u;
+          var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+        })('https://widget.replain.cc/dist/client.js');
+          `
+        }
+      </script>
       </Head>
       <main>
         <NavBar />
@@ -200,7 +211,7 @@ export default function Home() {
           </div>
         </section>
       </main>
+    
     </div >
-
   );
 }
